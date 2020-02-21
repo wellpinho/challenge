@@ -1,6 +1,6 @@
 {
-  "name": "cjallengejs",
-  "author": "wellington pinho",
+  "name": "challengejs",
+  "author": "wellingtonpinho",
   "version": "1.0.0",
   "description": "Challenge nodejs, express",
   "main": "index.js",
