@@ -1,5 +1,6 @@
 {
   "name": "cjallengejs",
+  "author": "wellington pinho",
   "version": "1.0.0",
   "description": "Challenge nodejs, express",
   "main": "index.js",
@@ -13,7 +14,6 @@
   "keywords": [
     "javascript"
   ],
-  "author": "wellington pinho",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/wellpinho/challenge/issues"
