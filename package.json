@@ -1,0 +1,22 @@
+{
+  "name": "cjallengejs",
+  "version": "1.0.0",
+  "description": "Challenge nodejs, express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wellpinho/challenge.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "wellington pinho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wellpinho/challenge/issues"
+  },
+  "homepage": "https://github.com/wellpinho/challenge#readme"
+}
